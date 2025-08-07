@@ -1,0 +1,24 @@
+📊 Power Pivot Project – Excel Data Modeling Example
+This project demonstrates how to use Power Pivot in Excel to connect multiple tables, build a data model, and perform advanced analysis using DAX formulas.
+
+🔧 What’s Included:
+✅ Raw Dataset (original Excel files)
+
+✅ Cleaned Dataset (formatted and prepped for Power Pivot)
+
+✅ Power Pivot Model with relationships and calculated measures
+
+✅ Final Excel file with reports and visualizations
+
+🧠 Skills Practiced:
+Data cleaning and structuring
+
+Creating table relationships in Power Pivot
+
+Writing DAX measures
+
+Building dynamic reports without repetitive formulas
+
+📥 Try it Yourself:
+Download the files and open them in Excel to explore how Power Pivot is used. Perfect for practicing real-world data modeling and analysis!
+
